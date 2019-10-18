@@ -16,6 +16,7 @@ public class MeuProjetoGitNaIDE {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Seja bem vindo ao Git no Netbeans");
     }
     
 }
